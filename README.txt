@@ -1,1 +1,1 @@
-My first Git and use status
+My first Git Project
